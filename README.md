@@ -1,4 +1,4 @@
 # AP-app
 Don't use this one. 
-Use this intsead:
+Use this intstead:
 https://github.com/Kormaican/APApp/
